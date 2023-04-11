@@ -1,5 +1,6 @@
 # Optimism Bedrock specs
 
+Read the book online: https://tianpan.co/optimism-bedrock-specs/
 
 ```bash
 make install

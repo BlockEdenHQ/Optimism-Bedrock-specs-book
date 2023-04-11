@@ -1,4 +1,4 @@
-- [Table of Content](introduction.md)
+- [Summary](introduction.md)
 - [Overview](overview.md)
 - [Deposits](deposits.md)
 - [Withdrawals](withdrawals.md)
