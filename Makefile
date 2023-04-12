@@ -8,6 +8,6 @@ dev:
 
 .PHONY: build
 build:
-	gitbook pdf ./ ./_book/the-great-ceo-within-chinese-edition.pdf
-	gitbook epub ./ ./_book/the-great-ceo-within-chinese-edition.epub
-	gitbook mobi ./ ./_book/the-great-ceo-within-chinese-edition.mobi
+	gitbook pdf ./ ./_book/optimism-bedrock-specs.pdf
+	gitbook epub ./ ./_book/optimism-bedrock-specs.epub
+	gitbook mobi ./ ./_book/optimism-bedrock-specs.mobi
